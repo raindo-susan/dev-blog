@@ -8,12 +8,12 @@
 </script>
 
 <svelte:head>
-  <title>Josean Martinez</title>
+  <title>Pablo Raindo Garcia</title>
   <meta
     name="description"
-    content="Full-stack dev passionate about web dev, neovim, dev workflows, mechanical keyboards and sharing what I know."
+    content="passionate biotechnology postgraduate with an emphasis into IPSC"
   />
-  <meta property="og:title" content="Josean Martinez" />
+  <meta property="og:title" content="Pablo Raindo Garcia" />
   <meta property="og:type" content="website" />
   <meta
     property="og:image"
@@ -22,7 +22,7 @@
   <meta property="og:url" content={$page.url.href} />
   <meta
     property="og:description"
-    content="Full-stack dev passionate about web dev, neovim, dev workflows, mechanical keyboards and sharing what I know."
+    content="passionate biotechnology postgraduate with an emphasis into IPSC"
   />
 </svelte:head>
 
